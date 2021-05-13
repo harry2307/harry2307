@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Mehta
-- 👀 I’m interested in the field of Analysis, Machine Learning
+- 👀 I’m interested in the field of Analysis.
 - 🌱 I’m currently learning Data analysis, Business Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
